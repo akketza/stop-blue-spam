@@ -1,0 +1,3 @@
+article:has([data-testid="icon-verified"]) {
+  display: none;
+}
