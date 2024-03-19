@@ -8,7 +8,7 @@ This Chrome extension filters out tweets from verified Twitter accounts, enhanci
 
 # Installation:
 
-    Simply visit the Chrome Web Store and search for "Stop BLue Spam". 
+    Simply visit the Chrome Web Store and search for "Stop Blue Spam". 
     Click on the extension and then click on the "Add to Chrome" button. 
     Once installed, the extension will be ready to use immediately.
 
