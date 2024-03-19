@@ -8,13 +8,9 @@ This Chrome extension filters out tweets from verified Twitter accounts, enhanci
 
 # Installation:
 
-    Download the extension files from the repository.
-    Unzip the downloaded files to a folder on your computer.
-    Open Google Chrome.
-    Go to the Chrome menu (three vertical dots) > More Tools > Extensions.
-    Enable Developer mode by toggling the switch in the top right corner.
-    Click on "Load unpacked" and select the folder where you unzipped the extension files.
-    The extension should now be installed and ready to use.
+    Simply visit the Chrome Web Store and search for "Privacy Twitter Filter". 
+    Click on the extension and then click on the "Add to Chrome" button. 
+    Once installed, the extension will be ready to use immediately.
 
 # Usage:
 
@@ -22,7 +18,7 @@ Once installed, the extension automatically filters out tweets from verified Twi
 
 # Privacy Considerations:
 
-This extension enhances privacy by filtering out tweets from verified Twitter accounts using a simple line of CSS. By doing so, it allows users to focus on content from non-verified accounts, potentially reducing exposure to curated or sponsored content often found on verified accounts.
+This extension enhances privacy by filtering out tweets from verified Twitter accounts using a simple line of CSS. It does not collect any personal data from the user. The extension solely detects tweets from verified accounts within the Twitter feed page and applies the filter accordingly. No user data is stored or processed outside of the user's device.
 
 # Disclaimer:
 
