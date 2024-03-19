@@ -1,3 +1,3 @@
 # Stop Blue Spam
 
-This extension serves to prevent tweets from verified accounts from being displayed, and reduce spam
+This extension is designed to block tweets from verified accounts and minimize spam; additionally, the majority of ad tweets originate from verified accounts.
