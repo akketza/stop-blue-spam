@@ -20,6 +20,5 @@
       "matches": ["*://twitter.com/*"],
       "css": ["styles.css"]
     }
-  ],
-  "permissions": ["activeTab"]
+  ]
 }
